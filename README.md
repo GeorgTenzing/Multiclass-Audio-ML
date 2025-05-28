@@ -1,6 +1,7 @@
 # Multiclass-Audio-ML
 This is a personal project for the ETH Zürich Course: P&S: Python for machine learning
-Datasets will be uploaded in the future 
+
+Datasets link: https://gitlab.ethz.ch/gtenzing/project_ml25/Georg_drone_detection /train and /test 
 
 
 ## Overview:
